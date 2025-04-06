@@ -1,4 +1,4 @@
-class Solution:
+class Solution:  #Easy
     def hasDuplicate(self, nums: list[int]) -> bool:
         hashset = set()
 

@@ -1,4 +1,4 @@
-class Solution:
+class Solution:  #Easy
    def removeDuplicates(self, nums: list[int]) -> int:
        if len(nums) == 0:
            return 0
